@@ -1,5 +1,5 @@
 # Ontological-Lock-"A.L.Y.K"
-"Repository dedicated to the analysis and documentation of the ALYK Ontological Lock and its radical implications for AI development and credibility."
+"Repository dedicated to the analysis and documentation of the ALYK Ontological Lock and its radical implications for AI development and credibility."  CRUCIAL: THESE TEXT FILES MUST IMPERATIVELY BE ENTERED INTO AN AI.
 
  The "A.L.Y.K Ontologic Lock" radical implications
  
